@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1477242210 source:d:\ccc\2_projects\rationalnumberobject\main.cpp
+	"Rational.h"
+	<iostream>
+
+1477240332 d:\ccc\2_projects\rationalnumberobject\rational.h
+
+1477241928 source:d:\ccc\2_projects\rationalnumberobject\rational.cpp
+	"Rational.h"
+	<iostream>
+	<cassert>
+

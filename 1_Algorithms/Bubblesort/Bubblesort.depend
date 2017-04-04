@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476880769 source:d:\ccc\1_algorithms\bubblesort\main.cpp
+	<iostream>
+	<vector>
+

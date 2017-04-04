@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476879865 source:d:\ccc\1_algorithms\quicksort\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+

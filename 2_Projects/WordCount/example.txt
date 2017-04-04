@@ -1,0 +1,5 @@
+This is an example text.
+It contains 5 lines of text.
+It will be used to test the Wordcount program.
+number of characters (without newline or carriage return character): 212
+number of words (sequences of letters): 34

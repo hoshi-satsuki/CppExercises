@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480929494 source:d:\ccc\2_projects\expointer\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+

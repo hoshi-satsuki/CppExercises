@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473009564 source:d:\ccc\2_projects\wordcount\main.cpp
+	<iostream>
+	<fstream>
+

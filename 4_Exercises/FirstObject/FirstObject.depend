@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1473864233 source:d:\ccc\4_exercises\firstobject\main.cpp
+	<iostream>
+	"FirstObject.h"
+
+1473864266 d:\ccc\4_exercises\firstobject\firstobject.h
+

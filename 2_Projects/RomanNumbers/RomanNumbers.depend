@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472994705 source:d:\ccc\2_projects\romannumbers\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

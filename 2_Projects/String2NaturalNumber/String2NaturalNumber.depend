@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476876405 source:d:\ccc\2_projects\string2naturalnumber\main.cpp
+	<iostream>
+	<string>
+	<limits>
+

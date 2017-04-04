@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1474115890 source:d:\ccc\2_projects\setofint\main.cpp
+	<iostream>
+	"SetofInt.h"
+
+1474106850 d:\ccc\2_projects\setofint\setofint.h
+	<iostream>
+	<vector>
+
+1474114885 source:d:\ccc\2_projects\setofint\setofint.cpp
+	"SetofInt.h"
+

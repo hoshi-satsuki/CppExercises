@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476878995 source:d:\ccc\1_algorithms\hanoitowers\main.cpp
+	<iostream>
+	<vector>
+

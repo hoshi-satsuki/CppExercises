@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476958976 source:d:\ccc\3_header_templates\int_char2binary\main.cpp
+	<iostream>
+	"Int_Char2binary.h"
+
+1476959043 d:\ccc\3_header_templates\int_char2binary\int_char2binary.h
+

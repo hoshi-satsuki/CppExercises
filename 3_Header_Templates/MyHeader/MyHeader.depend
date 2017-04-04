@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472979812 source:d:\ccc\3_header_templates\myheader\main.cpp
+	<iostream>
+	"MyHeader.h"
+
+1472979825 d:\ccc\3_header_templates\myheader\myheader.h
+	<cassert>
+

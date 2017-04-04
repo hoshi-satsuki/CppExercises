@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472139868 source:d:\ccc\3_header_templates\gettype\main.cpp
+	<iostream>
+	"gettype.t"
+
+1476958457 d:\ccc\3_header_templates\gettype\gettype.t
+	<string>
+
